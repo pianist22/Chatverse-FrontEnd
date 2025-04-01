@@ -7,7 +7,6 @@
 // newMessageAlert,
 // index = 0,
 
-import chatItem from "../components/shared/chatItem";
 
 // handleDeleteChatOpen,
 export const sampleChats = [
