@@ -1,6 +1,6 @@
 import React from 'react'
 import { Stack } from '@mui/material'
-import ChatItem from '../components/shared/chatItem'
+import ChatItem from '../components/shared/ChatItem'
 
 const ChatList = ({
   w = "100%",
