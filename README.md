@@ -35,11 +35,11 @@ Chatverse is a modern full-stack real-time chat application that enables users t
 **Note** - This repository contains only the Frontend Code for backend code refer to the this GitHub Repo: ![Chatverse](https://github.com/pianist22/ChatVerse-Backend)
 
 ## 🌐 Live Demo
-![Chatverse](https://chatversefrontend.vercel.app/)
+[Chatverse](https://chatversefrontend.vercel.app/)
 
 ## 📬 Contact Me
-LinkedIn: ![Priyanshu Saha](https://www.linkedin.com/in/priyanshu-saha-339571262/) 
-GitHub: ![pianist22](https://github.com/pianist22)
+LinkedIn: [Priyanshu Saha](https://www.linkedin.com/in/priyanshu-saha-339571262/) 
+GitHub: [pianist22](https://github.com/pianist22)
 
 Built with ❤️ by [Priyanshu Saha] – Real-time communication, redefined.
 
