@@ -32,7 +32,7 @@ Chatverse is a modern full-stack real-time chat application that enables users t
 
 ---
 
-**Note** - This repository contains only the Frontend Code for backend code refer to the this GitHub Repo: ![Chatverse](https://github.com/pianist22/ChatVerse-Backend)
+**Note** - This repository contains only the Frontend Code for backend code refer to the this GitHub Repo: [Chatverse](https://github.com/pianist22/ChatVerse-Backend)
 
 ## 🌐 Live Demo
 [Chatverse](https://chatversefrontend.vercel.app/)
